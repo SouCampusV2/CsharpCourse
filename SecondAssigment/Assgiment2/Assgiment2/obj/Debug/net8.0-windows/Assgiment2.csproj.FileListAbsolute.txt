@@ -1,0 +1,16 @@
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\bin\Debug\net8.0-windows\Assgiment2.exe
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\bin\Debug\net8.0-windows\Assgiment2.deps.json
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\bin\Debug\net8.0-windows\Assgiment2.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\bin\Debug\net8.0-windows\Assgiment2.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\bin\Debug\net8.0-windows\Assgiment2.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.Form1.resources
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\refint\Assgiment2.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\Assgiment2.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\SecondAssigment\Assgiment2\Assgiment2\obj\Debug\net8.0-windows\ref\Assgiment2.dll

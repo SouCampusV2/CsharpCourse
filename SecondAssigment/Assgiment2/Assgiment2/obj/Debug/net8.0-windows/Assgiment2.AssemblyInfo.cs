@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Task1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Assgiment2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11312f44303731e80e7b4e83f873800e713f6500")]
-[assembly: System.Reflection.AssemblyProductAttribute("Task1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Task1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Assgiment2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Assgiment2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\FirstAssigment\\Task1\\Task1\\Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\FirstAssigment\\Task1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\SecondAssigment\\Assgiment2\\Assgiment2\\Assgiment2.csproj",
+      "projectName": "Assgiment2",
+      "projectPath": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\SecondAssigment\\Assgiment2\\Assgiment2\\Assgiment2.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\FirstAssigment\\Task1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\super\\OneDrive\\Рабочий стол\\C#\\SecondAssigment\\Assgiment2\\Assgiment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
