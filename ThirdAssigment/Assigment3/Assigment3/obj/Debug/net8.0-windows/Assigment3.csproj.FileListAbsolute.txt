@@ -1,0 +1,17 @@
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\bin\Debug\net8.0-windows\Assigment3.exe
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\bin\Debug\net8.0-windows\Assigment3.deps.json
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\bin\Debug\net8.0-windows\Assigment3.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\bin\Debug\net8.0-windows\Assigment3.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\bin\Debug\net8.0-windows\Assigment3.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.Form1.resources
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.sourcelink.json
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\refint\Assigment3.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\Assigment3.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\ThirdAssigment\Assigment3\Assigment3\obj\Debug\net8.0-windows\ref\Assigment3.dll
