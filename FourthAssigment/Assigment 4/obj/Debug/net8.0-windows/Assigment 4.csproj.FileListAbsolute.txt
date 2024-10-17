@@ -1,0 +1,16 @@
+C:\Users\super\source\repos\Assigment 4\Assigment 4\bin\Debug\net8.0-windows\Assigment 4.exe
+C:\Users\super\source\repos\Assigment 4\Assigment 4\bin\Debug\net8.0-windows\Assigment 4.deps.json
+C:\Users\super\source\repos\Assigment 4\Assigment 4\bin\Debug\net8.0-windows\Assigment 4.runtimeconfig.json
+C:\Users\super\source\repos\Assigment 4\Assigment 4\bin\Debug\net8.0-windows\Assigment 4.dll
+C:\Users\super\source\repos\Assigment 4\Assigment 4\bin\Debug\net8.0-windows\Assigment 4.pdb
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment_4.Form1.resources
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.AssemblyInfo.cs
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.dll
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\refint\Assigment 4.dll
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.pdb
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\Assigment 4.genruntimeconfig.cache
+C:\Users\super\source\repos\Assigment 4\Assigment 4\obj\Debug\net8.0-windows\ref\Assigment 4.dll
