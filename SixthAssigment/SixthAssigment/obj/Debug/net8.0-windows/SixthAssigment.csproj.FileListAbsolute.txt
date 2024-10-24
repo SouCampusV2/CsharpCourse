@@ -1,0 +1,17 @@
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\bin\Debug\net8.0-windows\SixthAssigment.exe
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\bin\Debug\net8.0-windows\SixthAssigment.deps.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\bin\Debug\net8.0-windows\SixthAssigment.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\bin\Debug\net8.0-windows\SixthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\bin\Debug\net8.0-windows\SixthAssigment.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.Form1.resources
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.sourcelink.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\refint\SixthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\SixthAssigment.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\SixthAssigment\SixthAssigment\obj\Debug\net8.0-windows\ref\SixthAssigment.dll
