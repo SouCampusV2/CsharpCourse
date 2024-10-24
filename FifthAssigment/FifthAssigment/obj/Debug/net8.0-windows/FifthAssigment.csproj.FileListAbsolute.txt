@@ -1,0 +1,17 @@
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\bin\Debug\net8.0-windows\FifthAssigment.exe
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\bin\Debug\net8.0-windows\FifthAssigment.deps.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\bin\Debug\net8.0-windows\FifthAssigment.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\bin\Debug\net8.0-windows\FifthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\bin\Debug\net8.0-windows\FifthAssigment.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.Form1.resources
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.sourcelink.json
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\refint\FifthAssigment.dll
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.pdb
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\FifthAssigment.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\C#\FirstAssigment\FifthAssigment\FifthAssigment\obj\Debug\net8.0-windows\ref\FifthAssigment.dll
